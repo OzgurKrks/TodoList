@@ -1,0 +1,42 @@
+{
+    "questions":[
+        {
+            "question-text":"türkiyenin başlenti neresidir ? ",
+            "answers":[
+                {"a":"ankara","cevap":"true"},
+                {"a":"izmir","cevap":"false"},
+                {"a":"istanbul","cevap":"false"},
+                {"a":"konya","cevap":"false"}
+            ]
+        },
+        {
+            "question-text":"amerikan para birimi hangisidir",
+            "answers":[
+                {"a":"dolar" ,"cevap":"true"},
+                {"a":"euro" ,"cevap":"false"},
+                {"a":"lire","cevap":"false"},
+                {"a":"pound","cevap":"false"}
+            ]
+        },
+        {
+            "question-text":"izmir hangi bölgededeir ? ",
+            "answers":[
+                {"a":"iç anadolu","cevap":"false"},
+                {"a":"karadeniz","cevap":"false"},
+                {"a":"dogu adandolu","cevap":"false"},
+                {"a":"ege bölgesi","cevap":"true"}
+            ]
+        },
+        {
+            "question-text":"hangisi bir kebab türü değildir ?",
+            "answers":[
+                {"a":"adana dürüm","cevap":"false"},
+                {"a":"ankara tava","cevap":"false"},
+                {"a":"çorba","cevap":"true"},
+                {"a":"ciğer şiş","cevap":"false"}
+            ]
+        }
+    ]
+        
+   
+}
